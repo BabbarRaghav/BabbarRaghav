@@ -1,5 +1,27 @@
 ### Hi there 👋
+I am Raghav Babbar from India who is software/web developer.
 
+<h2>📫 Social Media Handles</h2>
+
+[![Visits Badge](https://badges.pufler.dev/visits/BabbarRaghav/BabbarRaghav)](https:BabbarRaghav.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RaghavBabbar4)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/babbarraghav6/)
+
+<h2>⚡ Github Stats</h2>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabbarRaghav&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=BabbarRaghav&theme=dark" />
+
+<h2>💬 Skills</h2>
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=.code&logoColor=white&color=4AB197)
+
+<h3 align=center>Stay Awesome and Happy Hacking</h3>
 <!--
 **BabbarRaghav/BabbarRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- For Top Languages Used by me
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabbarRaghav&theme=dark" />
 -->
