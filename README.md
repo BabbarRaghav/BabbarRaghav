@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Raghav Babbar from India who is software/web developer.<br>
+I am Raghav Babbar from India who is software/web developer. I am always ready to learn new things. I love to code and drink coffee😋<br>
 ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <h2>📫 Social Media Handles</h2>
@@ -23,7 +23,6 @@ I am Raghav Babbar from India who is software/web developer.<br>
 ![](https://img.shields.io/badge/Code-Kivy-informational?style=flat&logo=kivy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=.code&logoColor=white&color=4AB197)
