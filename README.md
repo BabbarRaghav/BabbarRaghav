@@ -27,6 +27,16 @@ I am Raghav Babbar from India who is software/web developer. I am always ready t
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=.code&logoColor=white&color=4AB197)
 
+![GitHub Activity Graph](https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg)  
+
+ <details>
+<summary>Detailed Summary</summary>
+<br>
+  
+![Metrics](https://metrics.lecoq.io/BabbarRaghav?template=classic&languages=1&people=1&introduction=1&followup=1&activity=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FCalcutta)
+    
+</details>
+
 <h3 align=center>Stay Awesome and Happy Hacking</h3>
 <!--
 **BabbarRaghav/BabbarRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
