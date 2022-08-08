@@ -1,19 +1,32 @@
-### Hi there 👋
-I am Raghav Babbar from India who is software/web developer. I am always ready to learn new things. I love to code and drink coffee😋<br>
-![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### Hi there 👋, I am Raghav Babbar
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right">
 
-<h2>📫 Social Media Handles</h2>
+![](https://komarev.com/ghpvc/?username=your-github-BabbarRaghav)
+ 
+Your Coding nerd🥰<br>
+A logical and creative thinker, I love solving problems.<br>
+I love to code and drink coffee😋<br>
+Here are some ideas to get you started:
 
-[![Visits Badge](https://badges.pufler.dev/visits/BabbarRaghav/BabbarRaghav)](https:BabbarRaghav.dev)
+- 🔭 I’m currently working on my Soft Skills
+- 🌱 I’m currently learning Everything
+- 💬 Ask me about Anything
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: 
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RaghavBabbar4)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/babbarraghav6/)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raghav-babbar-870139142/)
-
-<h2>⚡ Github Stats</h2>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabbarRaghav&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=BabbarRaghav&theme=dark" />
 <br><br><br>
+<h2>⚡ Github Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=BabbarRaghav&theme=dark" />
+</div>
+
+<h2>⚡ Most Used Language</h2>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabbarRaghav&theme=dark" />
+</div>
 
 <h2>💬 Skills</h2>
 
@@ -37,7 +50,11 @@ I am Raghav Babbar from India who is software/web developer. I am always ready t
     
 </details>
 
-<h3 align=center>Stay Awesome and Happy Hacking</h3>
+<h3 align=center>
+Ask not what your programming language can do for you ask what you can 
+do for your programming language...<br>
+Stay Awesome and Happy Hacking
+</h3>
 <!--
 **BabbarRaghav/BabbarRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
