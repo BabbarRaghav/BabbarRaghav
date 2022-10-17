@@ -46,6 +46,13 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<h2>Raghav Badges and Trophy</h2>
+
+[![@babbarraghav's Holopin board](https://holopin.me/babbarraghav)](https://holopin.io/@babbarraghav)
+<p align="center">
+  <img alt="github stats" src="https://github-profile-trophy.vercel.app/?username=babbarraghav&theme=dark&row=1" />
+</p>
+
 ![GitHub Activity Graph](https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg)  
 
  <details>
